@@ -1,0 +1,7 @@
+We aren't some major company. And I am definitely not economically capable of hosting a big platform with a server on which everything is stored.
+But this can be a good thing for us. I have some ideas on how we can make the server store fewer than a megabyte per person, while at the same time making all the user data a lot more private.
+What is that you might ask? Everything about you, is stored locally.
+Every connection will be done peer to peer, and big group connections just won't exist for a while.
+Maybe when I'll add them, one person will just be chosen as the host, and then everyone connects to them.
+Peer to peer becomes exponentially more expensive with more people being added.
+

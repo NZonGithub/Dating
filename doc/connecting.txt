@@ -1,0 +1,3 @@
+Clients aren't supposed to have socket connections to eachother. For any form of communication between clients, WebRTC should be used.
+But WebRTC connections will have to be made first. How do we do that?
+
